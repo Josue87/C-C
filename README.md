@@ -14,31 +14,31 @@ Below are some captures of how this C&C works:
 
 1. Banner
 
-![Banner]()
+![Banner](https://github.com/Josue87/Raok_cc/blob/master/Images_Example/Banner.png)
 
 2. Help
 
-![Helo]()
+![Help](https://github.com/Josue87/Raok_cc/blob/master/Images_Example/Help.png)
 
 3. Start of listener
 
-![Listeners]()
+![Listeners](https://github.com/Josue87/Raok_cc/blob/master/Images_Example/Listener.png)
 
 4. Agents connection
 
-![Agents]()
+![Agents](https://github.com/Josue87/Raok_cc/blob/master/Images_Example/Agents.png)
 
 5. Command execution
 
-![Command execution]()
+![Command execution](https://github.com/Josue87/Raok_cc/blob/master/Images_Example/Exec_command.png)
 
 6. Load plugins in memory
 
-![Plugins]()
+![Plugins](https://github.com/Josue87/Raok_cc/blob/master/Images_Example/Plugin_Example.png)
 
 7. Kill an agent
 
-![Kill agent]()
+![Kill agent](https://github.com/Josue87/Raok_cc/blob/master/Images_Example/Killing_agent.png)
 
 
 ## Author
