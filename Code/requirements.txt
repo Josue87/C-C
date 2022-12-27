@@ -1,5 +1,5 @@
 prompt_toolkit==2.0.10
-setuptools==41.6.0
+setuptools==65.5.1
 requests
 pynput
 termcolor
